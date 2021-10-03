@@ -80,6 +80,9 @@
 Серёжа - 10 000,00
 ```
 
+###### Ref:
+- https://jinja.palletsprojects.com/en/3.0.x/templates/
+
 ## 4*. Easy-Afina
 
 TO-DO:
