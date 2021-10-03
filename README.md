@@ -10,10 +10,10 @@
 ###### Ref:
 - https://training.github.com/downloads/ru/github-git-cheat-sheet/
 
+
 ## 2. Python
 Напишите функцию, на вход которой приходит **строка в формате json** заданного вида.
 А функция возвращает json содеражий в поле `data` только события, которые произошли не более чем 10 днями ранее или позднее от **01.09.2021**.
-
 ##### Input
 ```json
 {
@@ -34,7 +34,6 @@
     ]
 }
 ```
-
 ##### Output
 ```json
 {
@@ -47,10 +46,10 @@
     ]
 }
 ```
-
 ###### Ref:
 - https://docs.python.org/3/library/json.html
 - https://docs.python.org/3/library/datetime.html
+
 
 ## 3. Jinja
 Напишите jinja2 шаблон выводящий по заданному массиву только имена людей для которых поле `sum` больше 100, с указанием суммы
@@ -79,9 +78,9 @@
 Оля - 100,50
 Серёжа - 10 000,00
 ```
-
 ###### Ref:
 - https://jinja.palletsprojects.com/en/3.0.x/templates/
+
 
 ## 4*. Easy-Afina
 
