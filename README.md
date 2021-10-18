@@ -85,5 +85,5 @@
 
 ## 4*. Easy-Afina
 
-TO-DO:
+https://developers.sber.ru/docs/ru/salute/python-framework/framework_scenario
 
