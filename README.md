@@ -87,3 +87,5 @@
 
 https://developers.sber.ru/docs/ru/salute/python-framework/framework_scenario
 
+По документации сформировать json сценария типа base, который приветствует человека 3 разными способами, реализовав это через sdk_answer_to_user (action)
+
